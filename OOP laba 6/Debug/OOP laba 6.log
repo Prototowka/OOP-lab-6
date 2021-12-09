@@ -1,0 +1,14 @@
+﻿  OOP laba 6.cpp
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(46,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(47,30): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(53,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(63,40): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(111,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(133,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(139,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(139,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(147,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(148,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(153,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artba\source\repos\OOP laba 6\OOP laba 6\OOP laba 6.cpp(153,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  OOP laba 6.vcxproj -> C:\Users\artba\source\repos\OOP laba 6\Debug\OOP laba 6.exe
